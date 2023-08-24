@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.13399280575539568" />
+        <entry key="app/src/main/res/drawable/baseline_accessibility_24.xml" value="0.2235" />
+        <entry key="app/src/main/res/layout/activity_audio_helper.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_image_helper.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_mltext_helper.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_video_helper_new.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/add_face_dialog.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/item_icons.xml" value="0.20380434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="androidx.camera.core.CameraSelector.LensFacing" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
